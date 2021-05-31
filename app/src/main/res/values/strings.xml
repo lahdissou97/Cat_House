@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cat House</string>
+
+    <string name="spinner_breed_label">What cat breed do you look for?</string>
+    <string name="spinner_breed_hint">Select a breed&#8230;</string>
+    <string name="no_breed_selected_hint">No cat breed has been selected</string>
+    <string name="global_error">Oops! Something went wrong</string>
+
+    <string name="breed_name_label">Breed Name</string>
+    <string name="breed_description_label">Breed Description</string>
+    <string name="breed_origin_label">Origin</string>
+    <string name="breed_life_span_label">Life Span</string>
+    <string name="breed_weight_label">Weight</string>
+    <string name="breed_temperament_label">Temperament</string>
+
+    <string name="breed_weight">%s kgs</string>
+    <string name="breed_life_span">%s yrs</string>
+
+    <string name="favourite_button_label">Favourite</string>
+
+</resources>
